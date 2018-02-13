@@ -1,0 +1,11 @@
+C:\Users\asus\Desktop\MapleXmlModifier\MapleXmlModifier\bin\Debug\MapleXmlModifier.exe.config
+C:\Users\asus\Desktop\MapleXmlModifier\MapleXmlModifier\bin\Debug\MapleXmlModifier.exe
+C:\Users\asus\Desktop\MapleXmlModifier\MapleXmlModifier\bin\Debug\MapleXmlModifier.pdb
+C:\Users\asus\Desktop\MapleXmlModifier\MapleXmlModifier\bin\Debug\MapleXmlModifier.xml
+C:\Users\asus\Desktop\MapleXmlModifier\MapleXmlModifier\obj\Debug\MapleXmlModifier.vbprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\MapleXmlModifier\MapleXmlModifier\obj\Debug\MapleXmlModifier.Resources.resources
+C:\Users\asus\Desktop\MapleXmlModifier\MapleXmlModifier\obj\Debug\MapleXmlModifier.vbproj.GenerateResource.Cache
+C:\Users\asus\Desktop\MapleXmlModifier\MapleXmlModifier\obj\Debug\MapleXmlModifier.exe
+C:\Users\asus\Desktop\MapleXmlModifier\MapleXmlModifier\obj\Debug\MapleXmlModifier.xml
+C:\Users\asus\Desktop\MapleXmlModifier\MapleXmlModifier\obj\Debug\MapleXmlModifier.pdb
+C:\Users\asus\Desktop\MapleXmlModifier\MapleXmlModifier\obj\Debug\MapleXmlModifier.Form1.resources
